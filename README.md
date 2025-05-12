@@ -1,2 +1,2 @@
 # YOUR ALL-IN-ONE STATIC ROUTE LAB
-This Lab exercise is an ALL-IN-ONE static routing lab, which comprises configuration of the three types of static labs which are standard, floating static and default static routing, with step-by-step instruction to hellp student navigate the exercise.
+This lab exercise is an all-in-one static routing lab that includes the configuration of three types of static routes: standard, floating static, and default static routing. Step-by-step instructions are provided to help students navigate the exercise.
